@@ -1,5 +1,7 @@
 # react-native-twitter
 
+<i>This fork of [`react-native-twitter`]: Retrieving parameters from URL was throwing errro as `?` was not present in any Twitter auth URLs. Custom class with methods added which resolves the error and returns expected result</i>
+
 A Twitter API client library for React Native
 
 <!-- toc orderedList:0 depthFrom:1 depthTo:6 -->
